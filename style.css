@@ -1,7 +1,46 @@
+/*Index.html file*/
 body{
-  background-color: #00b300;
-  font-size: 17px;
+ background-color: #80ff80
 }
-.highlight{
-  background-color: yellow;
+.header{
+  background: #ffd9b3;
+  color: #996633;
+  border-width: 20px
+  border-color: black;
+  border-style: groove;
+  margin: 50px;
+}
+.box1{
+  background: #ffd9b3;
+  color: #996633;
+  border-width: 10px
+  border-color: black;
+  border-style: groove;
+  margin: 25px;
+}
+
+/*other pages*/
+.des{
+  background: #ffd9b3;
+  color: #996633;
+  border-width: 10px
+  border-color: black;
+  border-style: groove;
+  margin: 25px;
+}
+.Ing{
+  background: #ffd9b3;
+  color: #996633;
+  border-width: 10px
+  border-color: black;
+  border-style: groove;
+  margin: 25px;
+}
+.steps{
+  background: #ffd9b3;
+  color: #996633;
+  border-width: 20px
+  border-color: black;
+  border-style: groove;
+  margin: 25px;
 }
